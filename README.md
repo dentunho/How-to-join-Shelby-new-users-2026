@@ -48,11 +48,7 @@ Want to know if your transaction was successful? Use the "search engine" of the 
 * **Explorer Link:** [https://explorer.shelby.xyz/shelbynet](https://explorer.shelby.xyz/shelbynet)
 * **How to check:** Paste your **Wallet Address** or **Transaction Hash (TX Hash)** into the search bar. If it shows a "Success" status, you’ve done it!
 
----
 
-### 🌟 PRO TIPS FOR NEWBIES
-* **Stay Consistent:** Try to perform at least 1-2 transactions daily to maintain activity on your wallet.
-* **Security First:** **Never share your 12-word Secret Phrase (Seed Phrase)** with anyone or enter it into any Faucet website.
 * **Explore Freely:** Don't be afraid to click buttons! This is a test network, so feel free to explore every feature.
 
 ---
