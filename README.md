@@ -1,0 +1,59 @@
+# 🚀 STEP-BY-STEP GUIDE: SHELBY NETWORK ( NEWBIE )
+
+Welcome to **Shelby Network**! If you are a beginner (Newbie) looking to explore the decentralized data storage ecosystem (Blob Storage) on the Aptos network, this is the ultimate guide for you.
+
+---
+
+### 🎥 FULL VIDEO TUTORIAL
+Before you begin, watch the live demonstration covering: How to Faucet, Swap TXN, Check TXN, and Download files here:
+👉 **[Watch the Tutorial Video Here](https://x.com/thai_trinh06/status/2029778579937272246?s=20)**
+
+---
+
+### 1️⃣ STEP 1: CLAIM TEST TOKENS (FAUCET)
+In the Crypto world, a "Faucet" is a place that provides free tokens so you can experience the network without using real money.
+
+* **Faucet Link:** [https://faucet.shelbynet.shelby.xyz](https://faucet.shelbynet.shelby.xyz)
+* **How to do it:** Use an Aptos-compatible wallet (such as **Petra, OKX Wallet, or Martian**). Copy your wallet address and paste it into the Faucet page to receive:
+    * **APT:** Used to pay for "Gas" (transaction fees).
+    * **ShelbyUSD:** Used to pay for data upload and storage fees.
+
+---
+
+### 2️⃣ STEP 2: NETWORK CONFIGURATION (RPC / API)
+Think of this as "tuning" your wallet to the correct frequency to communicate with the Shelby network.
+
+| Parameter | Value |
+| :--- | :--- |
+| **Network Name** | `shelbynet` |
+| **RPC** | `https://api.shelbynet.shelby.xyz/shelby` |
+| **Aptos Fullnode** | `https://api.shelbynet.shelby.xyz/v1` |
+| **Indexer (GraphQL)** | `https://api.shelbynet.shelby.xyz/v1/graphql` |
+
+> 💡 **Newbie Note:** This is a **Devnet**, a testing playground for developers and users. This network resets periodically, so if your balance returns to 0 after some time, don't worry—it’s completely normal!
+
+---
+
+### 3️⃣ STEP 3: PERFORM TRANSACTIONS (INTERACTION)
+To become an active test user, try the following actions as shown in the video:
+
+* **Swap TXN:** Try swapping between different types of tokens within the ecosystem.
+* **Upload & Download Files:** Experience the most important feature: **Blob Storage**. Try uploading a small file (like an image) and then download it to check the stability and speed.
+
+---
+
+### 4️⃣ STEP 4: VERIFY TRANSACTIONS (EXPLORER)
+Want to know if your transaction was successful? Use the "search engine" of the Blockchain.
+
+* **Explorer Link:** [https://explorer.shelby.xyz/shelbynet](https://explorer.shelby.xyz/shelbynet)
+* **How to check:** Paste your **Wallet Address** or **Transaction Hash (TX Hash)** into the search bar. If it shows a "Success" status, you’ve done it!
+
+---
+
+### 🌟 PRO TIPS FOR NEWBIES
+* **Stay Consistent:** Try to perform at least 1-2 transactions daily to maintain activity on your wallet.
+* **Security First:** **Never share your 12-word Secret Phrase (Seed Phrase)** with anyone or enter it into any Faucet website.
+* **Explore Freely:** Don't be afraid to click buttons! This is a test network, so feel free to explore every feature.
+
+---
+*Good luck with your Shelby Network journey!*
